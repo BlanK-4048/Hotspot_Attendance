@@ -114,7 +114,7 @@ Pull requests and suggestions are welcome!
 
 ## 👨‍💻 Developed By
 
-**Samik**\
+**Samik Sarkar**\
 B.Tech CSE --- Wireless & Mobile Communication Project (2025)
 
 ------------------------------------------------------------------------
