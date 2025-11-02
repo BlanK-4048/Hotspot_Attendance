@@ -72,9 +72,8 @@ python main.py
 
     📦 WiFi-Attendance-System
     ├── main.py
-    ├── registered_devices.csv
-    ├── README.md
-    └── screenshots/
+    ├── requirements.txt
+    └── README.md
 
 ------------------------------------------------------------------------
 
